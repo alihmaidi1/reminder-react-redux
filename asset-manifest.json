@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reminder-react-redux/static/css/main.7644efb2.css",
+    "main.js": "/reminder-react-redux/static/js/main.99aa7c11.js",
+    "static/media/fa-solid-900.svg": "/reminder-react-redux/static/media/fa-solid-900.371dbce0dd46bd4d2033.svg",
+    "static/media/fa-brands-400.svg": "/reminder-react-redux/static/media/fa-brands-400.e33e2cf6e02cac2ccb77.svg",
+    "static/media/fa-solid-900.eot": "/reminder-react-redux/static/media/fa-solid-900.3a24a60e7f9c6574864a.eot",
+    "static/media/fa-solid-900.ttf": "/reminder-react-redux/static/media/fa-solid-900.10ecefc282f2761808bf.ttf",
+    "static/media/fa-regular-400.svg": "/reminder-react-redux/static/media/fa-regular-400.06b9d19ced8d17f3d5cb.svg",
+    "static/media/fa-brands-400.eot": "/reminder-react-redux/static/media/fa-brands-400.0fea24969112a781acd2.eot",
+    "static/media/fa-brands-400.ttf": "/reminder-react-redux/static/media/fa-brands-400.ec82f282c7f54b637098.ttf",
+    "static/media/fa-solid-900.woff": "/reminder-react-redux/static/media/fa-solid-900.46fdbd2d897f8824e63c.woff",
+    "static/media/fa-brands-400.woff": "/reminder-react-redux/static/media/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
+    "static/media/fa-solid-900.woff2": "/reminder-react-redux/static/media/fa-solid-900.3ceb50e7bcafb577367c.woff2",
+    "static/media/fa-brands-400.woff2": "/reminder-react-redux/static/media/fa-brands-400.c967a94cfbe2b06627ff.woff2",
+    "static/media/fa-regular-400.eot": "/reminder-react-redux/static/media/fa-regular-400.08f9891a6f44d9546678.eot",
+    "static/media/fa-regular-400.ttf": "/reminder-react-redux/static/media/fa-regular-400.1495f578452eb676f730.ttf",
+    "static/media/fa-regular-400.woff": "/reminder-react-redux/static/media/fa-regular-400.1069ea55beaa01060302.woff",
+    "static/media/fa-regular-400.woff2": "/reminder-react-redux/static/media/fa-regular-400.1008b5226941c24f4468.woff2",
+    "index.html": "/reminder-react-redux/index.html",
+    "main.7644efb2.css.map": "/reminder-react-redux/static/css/main.7644efb2.css.map",
+    "main.99aa7c11.js.map": "/reminder-react-redux/static/js/main.99aa7c11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7644efb2.css",
+    "static/js/main.99aa7c11.js"
+  ]
+}
